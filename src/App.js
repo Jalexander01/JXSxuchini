@@ -1,7 +1,8 @@
 import React from "react";
+import Heading from "./components/Heading/heading.component.jsx";
 
-function React(){
-  return ();
+function App() {
+  return <Heading />;
 }
 
-export default React;
+export default App;
